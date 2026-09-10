@@ -13,4 +13,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/kannaujiya360/DSA_JS_PYTHON/tree/master/0008-string-to-integer-atoi) |
+## Array
+|  |
+| ------- |
+| [0018-4sum](https://github.com/kannaujiya360/DSA_JS_PYTHON/tree/master/0018-4sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0018-4sum](https://github.com/kannaujiya360/DSA_JS_PYTHON/tree/master/0018-4sum) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/kannaujiya360/DSA_JS_PYTHON/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
